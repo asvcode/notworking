@@ -16,6 +16,9 @@ entries:
       title: explore
       url: explore.html
     - output: web,pdf
+      title: page
+      url: page.html
+    - output: web,pdf
       title: pre_processing
       url: preprocessing.html
     output: web

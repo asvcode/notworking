@@ -3,6 +3,7 @@
     "Overview": "/",
     "core": "core.html",
     "explore": "explore.html",
+    "page": "page.html",
     "pre_processing": "preprocessing.html"
   }
 }
