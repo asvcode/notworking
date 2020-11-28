@@ -2,10 +2,20 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {"say_hello": "00_core.ipynb"}
+index = {"say_hello": "00_core.ipynb",
+         "mask_and_save_path": "03_preprocessing.ipynb",
+         "mask_and_save_df": "03_preprocessing.ipynb",
+         "DcmDataset.updated_dict": "03_preprocessing.ipynb",
+         "pd.DataFrame.from_dicoms2": "03_preprocessing.ipynb",
+         "move_files": "03_preprocessing.ipynb",
+         "dicom_convert_3channel": "03_preprocessing.ipynb",
+         "dicomsplit": "03_preprocessing.ipynb",
+         "check_duplicate": "03_preprocessing.ipynb",
+         "dicom_splitter": "03_preprocessing.ipynb"}
 
 modules = ["core.py",
-           "explore.py"]
+           "explore.py",
+           "preprocessing.py"]
 
 doc_url = "https://asvcode.github.io/notworking/"
 
