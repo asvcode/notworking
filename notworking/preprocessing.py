@@ -9,9 +9,6 @@ from fastai.vision.all import *
 from fastai.medical.imaging import *
 from torchvision.utils import save_image
 
-from fmi.pipeline import *
-from fmi.explore import get_dicom_image
-
 # Cell
 def mask_and_save_path(file: (L), source=None, show=False, window=dicom_windows.lungs, sigma:float=0.1,\
                   thresh:float=0.9, save=False, save_path=None):
