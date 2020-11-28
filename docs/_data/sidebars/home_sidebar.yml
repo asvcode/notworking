@@ -10,10 +10,10 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: module name here
+      title: core
       url: core.html
     - output: web,pdf
-      title: Title
+      title: explore
       url: explore.html
     output: web
     title: notworking

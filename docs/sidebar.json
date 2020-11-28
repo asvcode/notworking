@@ -1,7 +1,7 @@
 {
   "notworking": {
     "Overview": "/",
-    "module name here": "core.html",
-    "Title": "explore.html"
+    "core": "core.html",
+    "explore": "explore.html"
   }
 }
