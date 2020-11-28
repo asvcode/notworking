@@ -4,7 +4,8 @@ __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
 index = {"say_hello": "00_core.ipynb"}
 
-modules = ["core.py"]
+modules = ["core.py",
+           "explore.py"]
 
 doc_url = "https://asvcode.github.io/notworking/"
 
